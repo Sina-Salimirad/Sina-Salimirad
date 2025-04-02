@@ -31,13 +31,10 @@ I am a **Frontend Developer** transitioning into **Full-Stack Development**. I h
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ---
 
-<!--
 ## 📂 Projects
-- **YouTube Downloader** - Backend & Frontend for downloading YouTube playlists.
+- **YouTube Downloader** - Backend & Frontend for downloading YouTube video & playlists.
 - **More projects coming soon...**
-
 ---
--->
 
 ## 📖 Learning & Growth
 Currently enhancing my backend skills with **scalable architectures** and **DevOps practices**.
